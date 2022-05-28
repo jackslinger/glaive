@@ -1,15 +1,15 @@
-**KNAVE v1.7.0**
+**Glaive v0.0.1**
 
-**Author**: Rabid Baboon
-**Version**: v1.7.0
+**Author**: Jack Slinger
+**Version**: v0.0.1
 **Foundry VTT Compatibility**: v9
 **Translation Support**: None 
 
-**Project:** https://github.com/jrommann/knave
-**Manifest:** https://raw.githubusercontent.com/jrommann/knave/master/system.json
+**Project:** https://github.com/jackslinger/glaive
+**Manifest:** https://raw.githubusercontent.com/jackslinger/glaive/master/system.json
 
 **Description**
-KNAVE is a rules toolkit created by Ben Milton for running old school fantasy RPGs without classes. Adding, subtracting and modifying rules is both expected and encouraged.
+GLAIVE is a toolkit for running old-school fantasy RPGs.
 
 **Changes**   
  - Updated for FoundryVTT v9
