@@ -9,7 +9,7 @@ export class KnaveActorSheet extends ActorSheet {
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
       classes: ["knave", "sheet", "actor"],
-      template: "systems/knave/templates/actor/actor-sheet.html",
+      template: "systems/glaive/templates/actor/actor-sheet.html",
       width: 1000,
       height: 620,
       tabs: [
