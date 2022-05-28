@@ -100,7 +100,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",  
   "url": "https://github.com/jackslinger/glaive",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/jackslinger/glaive/master/system.json",
+  "download": "https://github.com/jackslinger/glaive/archive/refs/heads/master.zip",
   "license": "LICENSE.txt"
 }

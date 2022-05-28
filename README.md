@@ -1,18 +1,20 @@
-# KNAVE v1.7.0
-**Author**: Rabid Baboon 
-**Foundry VTT Compatibility**: v9 
-**Translation Support**: None  
+# GLAIVE v0.0.1
 
-Screenshots - <https://github.com/jrommann/knave/wiki/Screenshots>
+**Author**: Jack Slinger
+**Foundry VTT Compatibility**: v9
+**Translation Support**: None
+
+<!-- Screenshots - <https://github.com/jrommann/knave/wiki/Screenshots> -->
 
 ### Description
-KNAVE is a rules toolkit created by Ben Milton for running old school fantasy RPGs without classes. Adding, subtracting and modifying rules is both expected and encouraged. 
+
+Glaive is a rules toolkit created by Ben Milton for running old school fantasy RPGs without classes. Adding, subtracting and modifying rules is both expected and encouraged.
 
 Available at:  
-DriveThruRPG - <https://www.drivethrurpg.com/product/250888/Knave>  
-Questing Beast - <https://questingbeast.itch.io/>  
+itch.io - <https://tesladyne.itch.io/glaive>
 
 # Features
+
 - Attack and damage rolls from character inventory, with target support
 - All roll tables, spells, items, and rules from KNAVE are included in compendiums
 - Automatic inventory slot counting
@@ -21,22 +23,34 @@ Questing Beast - <https://questingbeast.itch.io/>
 - Broken items and unusable spells turn red inventory
 
 # Changelog
+
+**0.0.1**
+
+- Created a fork of the Knave system
+
+## Knave changelog
+
 **1.7.0**
- - Updated for FoundryVTT v9
+
+- Updated for FoundryVTT v9
 
 **1.6.0**
- - Updated for FoundryVTT 0.8.6
 
-**1.5.0**   
-- Add wysiwyg to actor description. Thank you smcabrera 
+- Updated for FoundryVTT 0.8.6
+
+**1.5.0**
+
+- Add wysiwyg to actor description. Thank you smcabrera
 - Finished adding item icons
 
 **1.4.0**
-- Added Armor roll button. Thank you sunflowermans 
-- Added Quality / Quanity to inventory display. Thank you sunflowermans 
+
+- Added Armor roll button. Thank you sunflowermans
+- Added Quality / Quanity to inventory display. Thank you sunflowermans
 - Added some item Icons
 
 **1.3.1**
+
 - Added weapon name to hit message
 - **Added new Spell item type**
 - Updated spell compendium to use new item type spell
@@ -50,6 +64,7 @@ Questing Beast - <https://questingbeast.itch.io/>
 - Added individual weapon items from the example names
 
 **1.2.0**
+
 - Improved Clothing Compendium
 - Added missing label to Physique trait table
 - Broken item's name turns red
@@ -62,6 +77,7 @@ Questing Beast - <https://questingbeast.itch.io/>
 - **Added support for damage of selected target for weapons**
 
 **1.1.0**
+
 - Added description and trait tabs
 - Added input boxes for the character traits
 - Fixed blank lines/text being added to character description text area
