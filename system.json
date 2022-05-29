@@ -2,7 +2,7 @@
   "name": "glaive",
   "title": "GLAIVE",
   "description": "GLAIVE is a toolkit for running old-school fantasy RPGs.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "9.238",
   "compatibleCoreVersion": "9",
   "templateVersion": 2,
@@ -11,83 +11,6 @@
   "styles": ["css/glaive.css"],
   "scripts": [],
   "packs": [
-    {
-      "name": "armor",
-      "label": "Armor",
-      "system": "glaive",
-      "path": "./packs/armor.db",
-      "entity": "Item"
-    },
-    {
-      "name": "clothing",
-      "label": "Cothing",
-      "system": "glaive",
-      "path": "./packs/clothing.db",
-      "entity": "Item"
-    },
-    {
-      "name": "food",
-      "label": "Food",
-      "system": "glaive",
-      "path": "./packs/food.db",
-      "entity": "Item"
-    },
-    {
-      "name": "items",
-      "label": "Items",
-      "system": "glaive",
-      "path": "./packs/items.db",
-      "entity": "Item"
-    },
-    {
-      "name": "light",
-      "label": "Light",
-      "system": "glaive",
-      "path": "./packs/light.db",
-      "entity": "Item"
-    },
-    {
-      "name": "macros",
-      "label": "Macros",
-      "system": "glaive",
-      "path": "./packs/macros.db",
-      "entity": "Macro"
-    },
-    {
-      "name": "other",
-      "label": "Other",
-      "system": "glaive",
-      "path": "./packs/other.db",
-      "entity": "RollTable"
-    },
-    {
-      "name": "rules",
-      "label": "Rules",
-      "system": "glaive",
-      "path": "./packs/rules.db",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "spells",
-      "label": "Spells",
-      "system": "glaive",
-      "path": "./packs/spells.db",
-      "entity": "Item"
-    },
-    {
-      "name": "starting-gear",
-      "label": "Starting Gear",
-      "system": "glaive",
-      "path": "./packs/starting-gear.db",
-      "entity": "RollTable"
-    },
-    {
-      "name": "traits",
-      "label": "Traits",
-      "system": "glaive",
-      "path": "./packs/traits.db",
-      "entity": "RollTable"
-    },
     {
       "name": "weapons",
       "label": "Weapons",

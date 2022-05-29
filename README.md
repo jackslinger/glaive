@@ -4,8 +4,6 @@
 **Foundry VTT Compatibility**: v9
 **Translation Support**: None
 
-<!-- Screenshots - <https://github.com/jrommann/knave/wiki/Screenshots> -->
-
 ### Description
 
 Glaive is a rules toolkit created by Ben Milton for running old school fantasy RPGs without classes. Adding, subtracting and modifying rules is both expected and encouraged.
