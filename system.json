@@ -2,7 +2,7 @@
   "name": "glaive",
   "title": "GLAIVE",
   "description": "GLAIVE is a toolkit for running old-school fantasy RPGs.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minimumCoreVersion": "9.238",
   "compatibleCoreVersion": "9",
   "templateVersion": 2,

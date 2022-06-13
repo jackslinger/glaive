@@ -79,6 +79,12 @@
         "value":0,
         "max":20
       },
+      "talentSlots":
+      {
+        "used":0,
+        "value":0,
+        "max":5
+      },
       "traits":
       {
         "physique":"",
@@ -97,7 +103,7 @@
   },
   "Item":
   {
-    "types": ["item", "weaponMelee", "weaponRanged", "armor", "light", "spell"],
+    "types": ["item", "weaponMelee", "weaponRanged", "armor", "light", "spell", "talent"],
     "templates":
     {
       "base":
@@ -151,6 +157,13 @@
       "templates": ["base"],
       "used": false,
       "level": 0
+    },
+    "talent":
+    {
+      "name": "",
+      "description": "",
+      "slots": 1,
+      "theme": ""
     }
   }
 }

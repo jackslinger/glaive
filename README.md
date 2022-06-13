@@ -22,6 +22,10 @@ itch.io - <https://tesladyne.itch.io/glaive>
 
 # Changelog
 
+**0.0.3**
+
+- Added very basic support for talents
+
 **0.0.1**
 
 - Created a fork of the Knave system
