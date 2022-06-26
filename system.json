@@ -17,6 +17,13 @@
       "system": "glaive",
       "path": "./packs/weapons.db",
       "entity": "Item"
+    },
+    {
+      "name": "talents",
+      "label": "Talents",
+      "system": "glaive",
+      "path": "./packs/talents.db",
+      "entity": "Item"
     }
   ],  
   "gridDistance": 5,

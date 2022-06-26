@@ -25,6 +25,7 @@ itch.io - <https://tesladyne.itch.io/glaive>
 **0.0.3**
 
 - Added very basic support for talents
+- Added a pack for the base game talents
 
 **0.0.1**
 
