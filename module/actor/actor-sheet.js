@@ -212,6 +212,21 @@ export class KnaveActorSheet extends ActorSheet {
       this.#_hitTargets.forEach((target) => {
         this._doDamage(target, r.total);
       });
+    } else if (eventTarget.title === "usage") {
+      let r = new Roll("1d6");
+      r.evaluate({ async: false });
+
+      let messageHeader = "<b>" + item.name + "</b>";
+      if (r.total === 1) {
+        messageHeader += " reduces!";
+      } else {
+        messageHeader += " is still fine.";
+      }
+
+      r.toMessage({
+        speaker: ChatMessage.getSpeaker({ actor: this.actor }),
+        flavor: messageHeader,
+      });
     }
   }
 

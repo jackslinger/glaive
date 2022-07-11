@@ -103,7 +103,7 @@
   },
   "Item":
   {
-    "types": ["item", "weaponMelee", "weaponRanged", "armor", "light", "spell", "talent"],
+    "types": ["item", "weaponMelee", "weaponRanged", "armor", "light", "spell", "talent", "usage"],
     "templates":
     {
       "base":
@@ -122,6 +122,10 @@
       {
         "damageDice":"1d3",
         "hands": 1
+      },
+      "usage": {
+        "max_dice_size": 0,
+        "current_dice_size": 0
       }
     },
     "item":
@@ -149,7 +153,7 @@
     },
     "light":
     {
-      "templates": ["base"],
+      "templates": ["base", "usage"],
       "duration": 1
     },
     "spell":

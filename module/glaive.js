@@ -48,6 +48,10 @@ Hooks.once("init", async function () {
     return item.type === "weaponMelee" || item.type === "weaponRanged";
   });
 
+  Handlebars.registerHelper("isUsable", function (item) {
+    return item.type === "light";
+  });
+
   Handlebars.registerHelper("isTalent", function (item) {
     return item.type === "talent";
   });
